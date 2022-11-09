@@ -55,7 +55,7 @@
 
 # 👨🏻 **Vikash Kumar Lal ** `Team Leader`
 
-- Github: [@mehfooz](https://github.com/Therobo77)
+- Github: [Vikash](https://github.com/Therobo77)
 - Linkedin: [Vikash Lal](https://www.linkedin.com/in/vikash-lal-001420181/)
 - Email: (anshusinha8873@gmail.com)
 
