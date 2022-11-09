@@ -46,19 +46,20 @@
 
 ## 🤝 **_Collaborators_**
 
-# 🧔🏻 **Sanket Patil** `Project Manager`
+# 🧔🏻 **Sheelu Kumar ** `Project Manager`
 
 - Github:
 - Twitter:
 - Linkedin:
 - Email:
 
-# 👨🏻 **Mehfooz Khan** `Team Leader`
+# 👨🏻 **Vikash Kumar Lal ** `Team Leader`
 
 - Github: [@mehfooz](https://github.com/mehfoozkhangithub)
 - Linkedin: [Mehfooz Khan](https://www.linkedin.com/in/mehfoozkhan51/)
-- Email: (mehfoozshaik51@gmail.com)
-
+- Email: (anshusinha8873@gmail.com)
+- 
+<!-- 
 # 🧑🏻‍🦰 **Mohammad Ali**
 
 - Github:[@md_ali](https://github.com/mdali-11)
@@ -83,4 +84,4 @@
 - Github:
 - Twitter:
 - Linkedin:
-- Email:
+- Email: -->
