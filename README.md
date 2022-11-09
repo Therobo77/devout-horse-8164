@@ -55,10 +55,12 @@
 
 # 👨🏻 **Vikash Kumar Lal ** `Team Leader`
 
-- Github: [@mehfooz](https://github.com/mehfoozkhangithub)
-- Linkedin: [Mehfooz Khan](https://www.linkedin.com/in/mehfoozkhan51/)
+- Github: [@mehfooz](https://github.com/Therobo77)
+- Linkedin: [Vikash Lal](https://www.linkedin.com/in/vikash-lal-001420181/)
 - Email: (anshusinha8873@gmail.com)
-- 
+
+
+
 <!-- 
 # 🧑🏻‍🦰 **Mohammad Ali**
 
