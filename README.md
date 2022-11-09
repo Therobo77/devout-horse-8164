@@ -53,37 +53,9 @@
 - Linkedin:[Sheelu Kumar](https://www.linkedin.com/in/sheeluofficial/)
 - Email:[Sheelu Kumar](sheelu.kumar@masaischool.com)
 
-# 👨🏻 **Vikash Kumar Lal ** `Team Leader`
+# 👨🏻 **Vikash Kumar Lal ** `Indevisual Project `
 
 - Github: [Vikash](https://github.com/Therobo77)
 - Linkedin: [Vikash Lal](https://www.linkedin.com/in/vikash-lal-001420181/)
 - Email: (anshusinha8873@gmail.com)
 
-
-
-<!-- 
-# 🧑🏻‍🦰 **Mohammad Ali**
-
-- Github:[@md_ali](https://github.com/mdali-11)
-- Linkedin: [Mohammad Ali](https://www.linkedin.com/in/md-ali11/)
-- Email: (mdali91935@gmail.com)
-
-# 👱🏻‍♂️ **Rahul Singh**
-
-- Github:
-- Twitter:
-- Linkedin:
-- Email:
-
-# 🧑🏻 **Ashish Bajaj**
-
-- Github: [@ashish](https://github.com/abajaj655)
-- Linkedin: [Ashish Bajaj](https://www.linkedin.com/in/ashish-bajaj-7299a3235/)
-- Email: (abajaj655@gmail.com)
-
-# 🧒🏻 **Bhupendra Kumar chandrakar**
-
-- Github:
-- Twitter:
-- Linkedin:
-- Email: -->
