@@ -48,10 +48,10 @@
 
 # 🧔🏻 **Sheelu Kumar ** `Project Manager`
 
-- Github:
-- Twitter:
-- Linkedin:
-- Email:
+- Github:[Sheelu Kumar](https://www.linkedin.com/in/sheeluofficial/)
+- Twitter:[Sheelu Kumar](https://www.linkedin.com/in/sheeluofficial/)
+- Linkedin:[Sheelu Kumar](https://www.linkedin.com/in/sheeluofficial/)
+- Email:[Sheelu Kumar](sheelu.kumar@masaischool.com)
 
 # 👨🏻 **Vikash Kumar Lal ** `Team Leader`
 
