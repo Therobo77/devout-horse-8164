@@ -5,7 +5,7 @@
 
 # ENGAGEBAY.COM  (Clone)
 
-**##EngageBay is a smart pick for early-stage startups and small businesses looking for an integrated solution that doesn’t cost a fortune. It specializes in `marketing`, `sales`, `CRM`, and `customer service`..**
+##**EngageBay is a smart pick for early-stage startups and small businesses looking for an integrated solution that doesn’t cost a fortune. It specializes in `marketing`, `sales`, `CRM`, and `customer service`..**
 
 **User can `sign` in or `sign` up using `google sign in` or through `email verification`.**
 
