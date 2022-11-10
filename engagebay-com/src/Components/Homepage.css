@@ -1,0 +1,9 @@
+.detailsdiv>h1{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+.detailsdiv>p{
+    text-align: left;
+    margin-top: 20px;
+}
