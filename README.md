@@ -45,8 +45,7 @@
 
 - ### **Integration**
 
-## 🤝 **Netlify link**
-[Click Here To See Magic](https://vikash-fp-04-059.netlify.app/)
+## ✅ **Netlify link** [Click Here To See Magic](https://vikash-fp-04-059.netlify.app/)
 
 ## 🤝 **_Collaborators_**
 
