@@ -12,11 +12,11 @@
 
 ## Project look like this
 
-![image](https://user-images.githubusercontent.com/105917542/201535630-643af584-1bf8-4d92-a566-2770f7990cdd.png)
+<!-- ![image](https://user-images.githubusercontent.com/105917542/201535630-643af584-1bf8-4d92-a566-2770f7990cdd.png) -->
 
-```javascript
-// here we have to put the ss of the project
-```
+![image](https://user-images.githubusercontent.com/105917542/201535789-10270393-cba4-4630-a940-d46977463b3d.png)
+
+
 
 ## Build with
 
