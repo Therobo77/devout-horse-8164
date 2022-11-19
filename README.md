@@ -63,6 +63,6 @@
 - Github: [Vikash](https://github.com/Therobo77)
 - Linkedin: [Vikash Lal](https://www.linkedin.com/in/vikash-lal-001420181/)
 - Email: (anshusinha8873@gmail.com)
--Instagram: [Vanshu@7722]()
+-Instagram: [Vanshu@7722](https://www.instagram.com/vanshu7722/)
 
 
